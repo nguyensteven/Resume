@@ -2,7 +2,7 @@
 ---
 nguyenstevenn@gmail.com ◆  206-669-0029 ◆ https://linkedin.com/in/nguyenxsteven
 
-### Key Experiences
+### **Key Experiences**
 
 
 ##### Sourcing Recruiter, Amazon Web Services, Mar. 2019- Present
@@ -41,14 +41,14 @@ nguyenstevenn@gmail.com ◆  206-669-0029 ◆ https://linkedin.com/in/nguyenxs
 
 #### Swim Instructor & Lifeguard, Southwest Pool, Sept. 2009 - Sept. 2011
 
-### Volunteer Experience
+### **Volunteer Experience**
 #### Co-Executive Director, Tết in Seattle, Jan. 2015 - Jan. 2019
 <ul>
 	<li>Organized and planned annual Vietnamese Lunar New Year Festival that brings over tens of thousands of visitors at Seattle Center</li>
 	<li>Headed budget preparation, expense reporting, invoice/contract routing and processing, travel and meeting coordination as well as proactive calendar management for board </li>
 </ul>
 
-### Education
+### **Education**
 #### Bachelor of Arts, Medical Anthropology & Global Health, University of Washington, Sep 2011 - Jun 2015
 <ul>
 	<li>Vice President for Vietnamese Student Association</li>

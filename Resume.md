@@ -50,6 +50,7 @@ nguyenstevenn@gmail.com ◆  206-669-0029 ◆ https://linkedin.com/in/nguyenxs
 
 ### **Education**
 #### Bachelor of Arts, Medical Anthropology & Global Health, University of Washington, Sep 2011 - Jun 2015
+#### Coding Dojo Bootcamp Graduate 2017
 <ul>
 	<li>Vice President for Vietnamese Student Association</li>
 	<li>High School Mentor for The Dream Project </li>

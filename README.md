@@ -1,3 +1,1 @@
-My resume is below!
-# Steven Nguyen
-## Add more titles here
+#Thanks for taking a look at my resume!
